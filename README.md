@@ -7,11 +7,15 @@ Este repositorio almacena las prácticas realizadas durante el curso 2018/2019 p
 Las carpetas son las siguientes:
 
 - _Práctica 1_: Estadística descriptiva con R.
+- _Práctica 2_: Regresión lineal simple.
 - _Práctica 3_: Distribuciones de probabilidad en R.
+- _Práctica 4_: Intervalos de confianza en R.
 
 ## Uso
 
 Para todas las carpetas se necesita tener instalado un visualizador de PDF (por ejemplo, [Adobe Reader](https://get.adobe.com/es/reader/)).
+
+Para ejecutar los códigos que hay en los documentos se necesita instalar [R](https://www.r-project.org/) o [RStudio](https://www.rstudio.com/).
 
 ## Licencia
 
