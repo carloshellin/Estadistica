@@ -1,4 +1,4 @@
-# Estadistica
+# Estadística
 
 Este repositorio almacena las prácticas realizadas durante el curso 2018/2019 para la asignatura [ESTADÍSTICA (780004)](https://www.uah.es/es/estudios/estudios-oficiales/grados/asignatura/Estadistica-780004/) del departamento Ciencias de la Computación de la Universidad de Alcalá.
 
